@@ -7,7 +7,7 @@ This space contains all the material related to the [Computational Management of
 ### Table of content
 
 - [Computational Management of Data](#computational-management-of-data)
-  - [Academic year 2025/2026](#academic-year-20262027)
+  - [Academic year 2026/2027](#academic-year-20262027)
     - [Table of content](#table-of-content)
     - [Book and notes](#book-and-notes)
     - [Material](#material)
