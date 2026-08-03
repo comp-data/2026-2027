@@ -81,16 +81,16 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - book chapter: [HTML](https://thinkcompute.github.io/lab-03.html), Part 1
     <hr />
 12. [16/11/26, *the*] Brute-force algorithms
-   - book chapter: [HTML](https://thinkcompute.github.io/06-brute-force.html)
-   - slides: [communications](https://comp-data.github.io/2025-2026/slides/06%20-%20Brute-force%20algorithms.html), [lecture](https://thinkcompute.github.io/06-slides-brute-force.html)
-   - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
-     - Chapter "How To Construct While Loops": all content
-     - Chapter "How To Construct For Loops": all content
-     - Chapter "Understanding Tuples": all content
-     - Chapter "Understanding Lists": section "Constructing a List with List Items"
-     - Chapter "How To Use List Methods": section "list.insert()"
-   - Python: [stack_from_list.py](https://thinkcompute.github.io/stack_from_list.py), [run_forever.py](https://thinkcompute.github.io/run_forever.py), [linear_search.py](https://thinkcompute.github.io/linear_search.py), [insertion_sort.py](https://thinkcompute.github.io/insertion_sort.py)
-   <hr />
+    - book chapter: [HTML](https://thinkcompute.github.io/06-brute-force.html)
+    - slides: [communications](https://comp-data.github.io/2025-2026/slides/06%20-%20Brute-force%20algorithms.html), [lecture](https://thinkcompute.github.io/06-slides-brute-force.html)
+    - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
+      - Chapter "How To Construct While Loops": all content
+      - Chapter "How To Construct For Loops": all content
+      - Chapter "Understanding Tuples": all content
+      - Chapter "Understanding Lists": section "Constructing a List with List Items"
+      - Chapter "How To Use List Methods": section "list.insert()"
+    - Python: [stack_from_list.py](https://thinkcompute.github.io/stack_from_list.py), [run_forever.py](https://thinkcompute.github.io/run_forever.py), [linear_search.py](https://thinkcompute.github.io/linear_search.py), [insertion_sort.py](https://thinkcompute.github.io/insertion_sort.py)
+    <hr />
 13. [18/11/26, *lab*] Laboratory: 6th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-03.html), Part 2 - Part 5, plus [Exercises on Brute Force](https://thinkcompute.github.io/lab-05.html)
     <hr />
