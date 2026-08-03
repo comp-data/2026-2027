@@ -76,7 +76,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
       - Chapter "Understanding Lists": introductory paragraphs and section "Indexing Lists"
       - Chapter "How To Use List Methods": introductory paragraphs and sections "list.append()", "list.extend()", "list.remove()"
     - Python: [define_functions.py](https://thinkcompute.github.io/define_functions.py), [list_instructions.py](https://thinkcompute.github.io/list_instructions.py), [stack_instructions.py](https://thinkcompute.github.io/stack_instructions.py), [queue_instructions.py](https://thinkcompute.github.io/queue_instructions.py)
-   <hr />
+    <hr />
 11. [13/11/26, *lab*] Laboratory: 5th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-03.html), Part 1
     <hr />
