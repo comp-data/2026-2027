@@ -67,20 +67,20 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    - book chapter: [HTML](https://thinkcompute.github.io/lab-02.html), Part 4, plus Exercise
    <hr />
 10. [11/11/26, *the*] Organising information: ordered structures
-   - book chapter: [HTML](https://thinkcompute.github.io/05-ordered-structures.html)
-   - slides: [lecture](https://thinkcompute.github.io/05-slides-ordered-structures.html)
-   - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
-     - Chapter "How To Write Comments": all content
-     - Chapter "How To Import Modules": all content
-     - Chapter "Understanding Data Types": section "Lists"
-     - Chapter "Understanding Lists": introductory paragraphs and section "Indexing Lists"
-     - Chapter "How To Use List Methods": introductory paragraphs and sections "list.append()", "list.extend()", "list.remove()"
-   - Python: [define_functions.py](https://thinkcompute.github.io/define_functions.py), [list_instructions.py](https://thinkcompute.github.io/list_instructions.py), [stack_instructions.py](https://thinkcompute.github.io/stack_instructions.py), [queue_instructions.py](https://thinkcompute.github.io/queue_instructions.py)
+    - book chapter: [HTML](https://thinkcompute.github.io/05-ordered-structures.html)
+    - slides: [lecture](https://thinkcompute.github.io/05-slides-ordered-structures.html)
+    - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
+      - Chapter "How To Write Comments": all content
+      - Chapter "How To Import Modules": all content
+      - Chapter "Understanding Data Types": section "Lists"
+      - Chapter "Understanding Lists": introductory paragraphs and section "Indexing Lists"
+      - Chapter "How To Use List Methods": introductory paragraphs and sections "list.append()", "list.extend()", "list.remove()"
+    - Python: [define_functions.py](https://thinkcompute.github.io/define_functions.py), [list_instructions.py](https://thinkcompute.github.io/list_instructions.py), [stack_instructions.py](https://thinkcompute.github.io/stack_instructions.py), [queue_instructions.py](https://thinkcompute.github.io/queue_instructions.py)
    <hr />
-12. [13/11/26, *lab*] Laboratory: 5th Lesson
+11. [13/11/26, *lab*] Laboratory: 5th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-03.html), Part 1
     <hr />
-13. [16/11/26, *the*] Brute-force algorithms
+12. [16/11/26, *the*] Brute-force algorithms
    - book chapter: [HTML](https://thinkcompute.github.io/06-brute-force.html)
    - slides: [communications](https://comp-data.github.io/2025-2026/slides/06%20-%20Brute-force%20algorithms.html), [lecture](https://thinkcompute.github.io/06-slides-brute-force.html)
    - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
@@ -91,10 +91,10 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
      - Chapter "How To Use List Methods": section "list.insert()"
    - Python: [stack_from_list.py](https://thinkcompute.github.io/stack_from_list.py), [run_forever.py](https://thinkcompute.github.io/run_forever.py), [linear_search.py](https://thinkcompute.github.io/linear_search.py), [insertion_sort.py](https://thinkcompute.github.io/insertion_sort.py)
    <hr />
-14. [18/11/26, *lab*] Laboratory: 6th Lesson
+13. [18/11/26, *lab*] Laboratory: 6th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-03.html), Part 2 - Part 5, plus [Exercises on Brute Force](https://thinkcompute.github.io/lab-05.html)
     <hr />
-15. [20/11/26, *the*] Organising information: unordered structures
+14. [20/11/26, *the*] Organising information: unordered structures
     - book chapter: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
     - slides: [lecture](https://thinkcompute.github.io/07-slides-unordered-structures.html)
     - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
@@ -103,51 +103,51 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
       - Chapter "How To Construct Classes and Define Objects": all content
     - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
     <hr />
-16. [23/11/26, *lab*] Laboratory: 7th Lesson
+15. [23/11/26, *lab*] Laboratory: 7th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-04.html), all parts
     <hr />
-17. [25/11/26, *the*] Recursion
+16. [25/11/26, *the*] Recursion
     - book chapter: [HTML](https://thinkcompute.github.io/08-recursion.html)
     - slides: [lecture](https://thinkcompute.github.io/08-slides-recursion.html)
     - Python: [run_forever_recursive.py](https://thinkcompute.github.io/run_forever_recursive.py), [multiplication.py](https://thinkcompute.github.io/multiplication.py)
     <hr />
-18. [27/11/26, *lab*] Laboratory: 8th Lesson
+17. [27/11/26, *lab*] Laboratory: 8th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-06.html), all parts
     <hr />
-19. [30/11/26, *the*] Divide and conquer algorithms
+18. [30/11/26, *the*] Divide and conquer algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/09-divide-and-conquer.html)
     - slides: [lecture](https://thinkcompute.github.io/09-slides-divide-and-conquer.html)
     - Python: [immutable_values.py](https://thinkcompute.github.io/immutable_values.py), [mutable_values.py](https://thinkcompute.github.io/mutable_values.py), [immutable_and_mutable_variables.py](https://thinkcompute.github.io/immutable_and_mutable_variables.py), [merge.py](https://thinkcompute.github.io/merge.py), [merge_sort.py](https://thinkcompute.github.io/merge_sort.py)
     <hr />
-20. [02/12/26, *lab*] Laboratory: 9th Lesson
+19. [02/12/26, *lab*] Laboratory: 9th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-07.html), all parts
     <hr />
-21. [04/12/26, *the*] Dynamic programming algorithms
+20. [04/12/26, *the*] Dynamic programming algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/10-dynamic-programming.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/10%20-%20Dynamic%20programming%20algorithms.html), [lecture](https://thinkcompute.github.io/10-slides-dynamic-programming.html)
     - Python: [fib_dc.py](https://thinkcompute.github.io/fib_dc.py), [fib_dp.py](https://thinkcompute.github.io/fib_dp.py)
     <hr />
-22. [09/12/26, *the*] Organising information: trees
+21. [09/12/26, *the*] Organising information: trees
     - book chapter: [HTML](https://thinkcompute.github.io/11-trees.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/11%20-%20Organising%20information%20-%20trees.html), [lecture](https://thinkcompute.github.io/11-slides-trees.html)
     - Python: [tree_instructions.py](https://thinkcompute.github.io/tree_instructions.py)
     <hr />
-23. [11/12/26, *the*] Backtracking algorithms
+22. [11/12/26, *the*] Backtracking algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/12-backtracking.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/12%20-%20Backtracking%20algorithms.html), [lecture](https://thinkcompute.github.io/12-slides-backtracking.html)
     - Python: [peg_solitaire.py](https://thinkcompute.github.io/peg_solitaire.py)
     <hr />
-24. [14/12/26, *the*] Organising information: graphs
+23. [14/12/26, *the*] Organising information: graphs
     - book chapter: [HTML](https://thinkcompute.github.io/13-graphs.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/13%20-%20Organising%20information%20-%20graphs.html), [lecture](https://thinkcompute.github.io/13-slides-graphs.html)
     - Python: [graph_instructions.py](https://thinkcompute.github.io/graph_instructions.py), [multigraph_instructions.py](https://thinkcompute.github.io/multigraph_instructions.py), [graph_attribute_instructions.py](https://thinkcompute.github.io/graph_attribute_instructions.py)
     <hr />
-25. [16/12/26, *the*] Greedy algorithms
+24. [16/12/26, *the*] Greedy algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/14-greedy.html)
     - slides: [communications](https://comp-data.github.io/2025-2026/slides/14%20-%20Greedy%20algorithms.html), [lecture](https://thinkcompute.github.io/14-slides-greedy.html)
     - Python: [line_wrap.py](https://thinkcompute.github.io/line_wrap.py)
     <hr />
-26. [18/12/26, *wor*] Workshop
+25. [18/12/26, *wor*] Workshop
     <hr />
 
 
