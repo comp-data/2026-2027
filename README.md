@@ -31,6 +31,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 
 1. [07/10/26, *the*] Introduction to the course
    - slides: [lecture](https://comp-data.github.io/2026-2027/slides/00a%20-%20Course%20introduction.html), [experiment](https://comp-data.github.io/2026-2027/slides/00b%20-%20A%20thinking%20experiment.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a3a68717-8d7b-4677-891e-b4dc0078204a&instance=Virtuale) (accessible using UNIBO credentials)
    <hr />
 2. [09/10/26, *lab*] Laboratory: 1st Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-01.html), all parts
