@@ -30,7 +30,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 #### Part I (October 2026 - December 2026)
 
 1. [07/10/26, *the*] Introduction to the course
-   - slides: [lecture](https://comp-data.github.io/2026-2027/slides/00a%20-%20Course%20introduction.html)
+   - slides: [lecture](https://comp-data.github.io/2026-2027/slides/00a%20-%20Course%20introduction.html), [experiment](https://comp-data.github.io/2026-2027/slides/00b%20-%20A%20thinking%20experiment.html)
    <hr />
 2. [09/10/26, *lab*] Laboratory: 1st Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-01.html), all parts
