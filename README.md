@@ -35,6 +35,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    <hr />
 2. [09/10/26, *lab*] Laboratory: 1st Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-01.html), all parts
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=732ec079-8926-404b-9932-b4de00a974e0&instance=Virtuale) (accessible using UNIBO credentials)
    <hr />
 3. [12/10/26, *the*] Introduction to Computational Thinking
    - book chapter: [HTML](https://thinkcompute.github.io/01-computational-thinking.html)
