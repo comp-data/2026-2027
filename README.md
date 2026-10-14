@@ -42,10 +42,12 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    - slides: [communications](https://comp-data.github.io/2026-2027/slides/01%20-%20Introduction%20to%20Computational%20Thinking.html),  [lecture](https://thinkcompute.github.io/01-slides-computational-thinking.html)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=48aa2ae8-10b1-4362-aa08-b4e100777430&instance=Virtuale) (accessible using UNIBO credentials)
    - exercises: [1](https://github.com/comp-data/2026-2027/issues/1), [2](https://github.com/comp-data/2026-2027/issues/2), [3](https://github.com/comp-data/2026-2027/issues/3)
+   - solutions: [1](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-1), [2](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-2), [3](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-3)
    <hr />
 4. [14/10/26, *the*] Algorithms
    - book chapter: [HTML](https://thinkcompute.github.io/02-algorithms.html)
-   - slides: [lecture](https://thinkcompute.github.io/02-slides-algorithms.html)
+   - slides: [communications](https://comp-data.github.io/2026-2027/slides/02%20-%20Algorithms.html), [lecture](https://thinkcompute.github.io/02-slides-algorithms.html)
+   - exercises: [1](https://github.com/comp-data/2025-2026/issues/4), [2](https://github.com/comp-data/2025-2026/issues/5), [3](https://github.com/comp-data/2025-2026/issues/6)
    <hr />
 5. [19/10/26, *the*] Computability
    - book chapter: [HTML](https://thinkcompute.github.io/03-computability.html)
