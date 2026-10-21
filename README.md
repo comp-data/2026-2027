@@ -47,15 +47,17 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 4. [14/10/26, *the*] Algorithms
    - book chapter: [HTML](https://thinkcompute.github.io/02-algorithms.html)
    - slides: [communications](https://comp-data.github.io/2026-2027/slides/02%20-%20Algorithms.html), [lecture](https://thinkcompute.github.io/02-slides-algorithms.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4c909a58-941b-4464-8ef3-b4e300775d21&instance=Virtuale) (accessible using UNIBO credentials)
    - exercises: [1](https://github.com/comp-data/2026-2027/issues/4), [2](https://github.com/comp-data/2026-2027/issues/5), [3](https://github.com/comp-data/2026-2027/issues/6)
+   - solutions: [1](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-4), [2](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-5), [3](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-6)
    <hr />
-5. [19/10/26, *the*] Computability
+5. [to reschedule, *the*] Computability
    - book chapter: [HTML](https://thinkcompute.github.io/03-computability.html)
    - slides: [lecture](https://thinkcompute.github.io/03-slides-computability.html)
    <hr />
 6. [21/10/26, *the*] Programming languages
    - book chapter: [HTML](https://thinkcompute.github.io/04-programming-languages.html)
-   - slides: [lecture](https://thinkcompute.github.io/04-slides-programming-languages.html)
+   - slides: [communications](https://comp-data.github.io/2026-2027/slides/04%20-%20Programming%20languages.html), [lecture](https://thinkcompute.github.io/04-slides-programming-languages.html)
    - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Chapter "Understanding Data Types": introductory paragraphs and sections "Background", "Numbers", "Floating-Point Numbers", "Booleans", "Strings"
      - Chapter "How To Use Variables": introductory paragraphs and sections "Understadning Variables", "Naming Variables: Rules and Style", "Reassigning Variables", "Multiple Assignment"
@@ -170,7 +172,7 @@ TODO
   <tr><td>09/10/26</td><td>12:00-14:00</td><td>Laboratory: 1st Lesson</td></tr>
   <tr><td>12/10/26</td><td>09:00-11:00</td><td>Introduction to Computational Thinking</td></tr>
   <tr><td>14/10/26</td><td>09:00-11:00</td><td>Algorithms</td></tr>
-  <tr><td>19/10/26</td><td>09:00-11:00</td><td>Computability</td></tr>
+  <tr><td>to reschedule</td><td>to reschedule</td><td>Computability</td></tr>
   <tr><td>21/10/26</td><td>09:00-11:00</td><td>Programming languages</td></tr>
   <tr><td>23/10/26</td><td>12:00-14:00</td><td>Laboratory: 2nd Lesson</td></tr>
   <tr><td>09/11/26</td><td>09:00-11:00</td><td>Laboratory: 3rd Lesson</td></tr>
