@@ -65,6 +65,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
      - Chapter "How To Write Conditional Statements": all content
      - Chapter "How To Define Functions": introductory paragraphs and sections "Defining a Function", "Working with Parameters", "Returning a Value"
    - Python: [first_algorithm_empty.py](https://thinkcompute.github.io/first_algorithm_empty.py), [first_algorithm_no_assignments.py](https://thinkcompute.github.io/first_algorithm_no_assignments.py), [first_algorithm.py](https://thinkcompute.github.io/first_algorithm.py)
+   - [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=60dece69-8f89-48ce-a5df-b4eb0071d59c&instance=Virtuale) (accessible using UNIBO credentials)
+   - exercises: [1](https://github.com/comp-data/2026-2027/issues/9), [2](https://github.com/comp-data/2026-2027/issues/10), [3](https://github.com/comp-data/2026-2027/issues/11), [4](https://github.com/comp-data/2026-2027/issues/12), [5](https://github.com/comp-data/2026-2027/issues/13), [6](https://github.com/comp-data/2026-2027/issues/14), [7](https://github.com/comp-data/2026-2027/issues/15), [8](https://github.com/comp-data/2026-2027/issues/16), [9](https://github.com/comp-data/2026-2027/issues/17), [10](https://github.com/comp-data/2026-2027/issues/18)
    <hr />
 7. [23/10/26, *lab*] Laboratory: 2nd Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-02.html), Part 1 - Part 3
@@ -88,7 +90,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     <hr />
 11. [16/11/26, *the*] Brute-force algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/06-brute-force.html)
-    - slides: [communications](https://comp-data.github.io/2025-2026/slides/06%20-%20Brute-force%20algorithms.html), [lecture](https://thinkcompute.github.io/06-slides-brute-force.html)
+    - slides: [communications](https://comp-data.github.io/2026-2027/slides/06%20-%20Brute-force%20algorithms.html), [lecture](https://thinkcompute.github.io/06-slides-brute-force.html)
     - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
       - Chapter "How To Construct While Loops": all content
       - Chapter "How To Construct For Loops": all content
@@ -130,27 +132,27 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     <hr />
 19. [04/12/26, *the*] Dynamic programming algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/10-dynamic-programming.html)
-    - slides: [communications](https://comp-data.github.io/2025-2026/slides/10%20-%20Dynamic%20programming%20algorithms.html), [lecture](https://thinkcompute.github.io/10-slides-dynamic-programming.html)
+    - slides: [communications](https://comp-data.github.io/2026-2027/slides/10%20-%20Dynamic%20programming%20algorithms.html), [lecture](https://thinkcompute.github.io/10-slides-dynamic-programming.html)
     - Python: [fib_dc.py](https://thinkcompute.github.io/fib_dc.py), [fib_dp.py](https://thinkcompute.github.io/fib_dp.py)
     <hr />
 20. [09/12/26, *the*] Organising information: trees
     - book chapter: [HTML](https://thinkcompute.github.io/11-trees.html)
-    - slides: [communications](https://comp-data.github.io/2025-2026/slides/11%20-%20Organising%20information%20-%20trees.html), [lecture](https://thinkcompute.github.io/11-slides-trees.html)
+    - slides: [communications](https://comp-data.github.io/2026-2027/slides/11%20-%20Organising%20information%20-%20trees.html), [lecture](https://thinkcompute.github.io/11-slides-trees.html)
     - Python: [tree_instructions.py](https://thinkcompute.github.io/tree_instructions.py)
     <hr />
 21. [11/12/26, *the*] Backtracking algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/12-backtracking.html)
-    - slides: [communications](https://comp-data.github.io/2025-2026/slides/12%20-%20Backtracking%20algorithms.html), [lecture](https://thinkcompute.github.io/12-slides-backtracking.html)
+    - slides: [communications](https://comp-data.github.io/2026-2027/slides/12%20-%20Backtracking%20algorithms.html), [lecture](https://thinkcompute.github.io/12-slides-backtracking.html)
     - Python: [peg_solitaire.py](https://thinkcompute.github.io/peg_solitaire.py)
     <hr />
 22. [14/12/26, *the*] Organising information: graphs
     - book chapter: [HTML](https://thinkcompute.github.io/13-graphs.html)
-    - slides: [communications](https://comp-data.github.io/2025-2026/slides/13%20-%20Organising%20information%20-%20graphs.html), [lecture](https://thinkcompute.github.io/13-slides-graphs.html)
+    - slides: [communications](https://comp-data.github.io/2026-2027/slides/13%20-%20Organising%20information%20-%20graphs.html), [lecture](https://thinkcompute.github.io/13-slides-graphs.html)
     - Python: [graph_instructions.py](https://thinkcompute.github.io/graph_instructions.py), [multigraph_instructions.py](https://thinkcompute.github.io/multigraph_instructions.py), [graph_attribute_instructions.py](https://thinkcompute.github.io/graph_attribute_instructions.py)
     <hr />
 23. [16/12/26, *the*] Greedy algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/14-greedy.html)
-    - slides: [communications](https://comp-data.github.io/2025-2026/slides/14%20-%20Greedy%20algorithms.html), [lecture](https://thinkcompute.github.io/14-slides-greedy.html)
+    - slides: [communications](https://comp-data.github.io/2026-2027/slides/14%20-%20Greedy%20algorithms.html), [lecture](https://thinkcompute.github.io/14-slides-greedy.html)
     - Python: [line_wrap.py](https://thinkcompute.github.io/line_wrap.py)
     <hr />
 24. [18/12/26, *wor*] Workshop
