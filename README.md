@@ -54,7 +54,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 5. [09/11/26 (rescheduled), *the*] Computability
    - book chapter: [HTML](https://thinkcompute.github.io/03-computability.html)
    - slides: [communications](https://comp-data.github.io/2026-2027/slides/03%20-%20Computability.html), [lecture](https://thinkcompute.github.io/03-slides-computability.html)
-   - exercises: [29](https://github.com/comp-data/2026-2027/issues/7), [30](https://github.com/comp-data/2026-2027/issues/8), [31](https://github.com/comp-data/2026-2027/issues/9)
+   - exercises: [1](https://github.com/comp-data/2026-2027/issues/29), [2](https://github.com/comp-data/2026-2027/issues/30), [3](https://github.com/comp-data/2026-2027/issues/31)
    <hr />
 6. [21/10/26, *the*] Programming languages
    - book chapter: [HTML](https://thinkcompute.github.io/04-programming-languages.html)
