@@ -53,7 +53,8 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    <hr />
 5. [09/11/26 (rescheduled), *the*] Computability
    - book chapter: [HTML](https://thinkcompute.github.io/03-computability.html)
-   - slides: [lecture](https://thinkcompute.github.io/03-slides-computability.html)
+   - slides: [communications](https://comp-data.github.io/2026-2027/slides/03%20-%20Computability.html), [lecture](https://thinkcompute.github.io/03-slides-computability.html)
+   - exercises: [29](https://github.com/comp-data/2026-2027/issues/7), [30](https://github.com/comp-data/2026-2027/issues/8), [31](https://github.com/comp-data/2026-2027/issues/9)
    <hr />
 6. [21/10/26, *the*] Programming languages
    - book chapter: [HTML](https://thinkcompute.github.io/04-programming-languages.html)
@@ -67,6 +68,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    - Python: [first_algorithm_empty.py](https://thinkcompute.github.io/first_algorithm_empty.py), [first_algorithm_no_assignments.py](https://thinkcompute.github.io/first_algorithm_no_assignments.py), [first_algorithm.py](https://thinkcompute.github.io/first_algorithm.py)
    - [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=60dece69-8f89-48ce-a5df-b4eb0071d59c&instance=Virtuale) (accessible using UNIBO credentials)
    - exercises: [1](https://github.com/comp-data/2026-2027/issues/9), [2](https://github.com/comp-data/2026-2027/issues/10), [3](https://github.com/comp-data/2026-2027/issues/11), [4](https://github.com/comp-data/2026-2027/issues/12), [5](https://github.com/comp-data/2026-2027/issues/13), [6](https://github.com/comp-data/2026-2027/issues/14), [7](https://github.com/comp-data/2026-2027/issues/15), [8](https://github.com/comp-data/2026-2027/issues/16), [9](https://github.com/comp-data/2026-2027/issues/17), [10](https://github.com/comp-data/2026-2027/issues/18)
+   - solutions: [1](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-1), [2](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-2), [3](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-3), [4](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-4), [5](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-5), [6](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-6), [7](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-7), [8](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-8), [9](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-9), [10](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-10)
    <hr />
 7. [23/10/26, *lab*] Laboratory: 2nd Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-02.html), Part 1 - Part 3
