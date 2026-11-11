@@ -54,7 +54,9 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
 5. [09/11/26 (rescheduled), *the*] Computability
    - book chapter: [HTML](https://thinkcompute.github.io/03-computability.html)
    - slides: [communications](https://comp-data.github.io/2026-2027/slides/03%20-%20Computability.html), [lecture](https://thinkcompute.github.io/03-slides-computability.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d309d5ea-fa78-4fd0-ac84-b4fd0089e6e1&instance=Virtuale) (accessible using UNIBO credentials)
    - exercises: [1](https://github.com/comp-data/2026-2027/issues/29), [2](https://github.com/comp-data/2026-2027/issues/30), [3](https://github.com/comp-data/2026-2027/issues/31)
+   - solutions: [1](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-7), [2](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-8), [3](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-9)
    <hr />
 6. [21/10/26, *the*] Programming languages
    - book chapter: [HTML](https://thinkcompute.github.io/04-programming-languages.html)
@@ -75,7 +77,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    <hr />
 8. [11/11/26, *the*] Organising information: ordered structures
    - book chapter: [HTML](https://thinkcompute.github.io/05-ordered-structures.html)
-   - slides: [lecture](https://thinkcompute.github.io/05-slides-ordered-structures.html)
+   - slides: [communications](https://comp-data.github.io/2026-2027/slides/05%20-%20Organising%20information%20-%20ordered%20structures.html), [lecture](https://thinkcompute.github.io/05-slides-ordered-structures.html)
    - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Chapter "How To Write Comments": all content
      - Chapter "How To Import Modules": all content
