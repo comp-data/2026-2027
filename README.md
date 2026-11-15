@@ -85,9 +85,12 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
      - Chapter "Understanding Lists": introductory paragraphs and section "Indexing Lists"
      - Chapter "How To Use List Methods": introductory paragraphs and sections "list.append()", "list.extend()", "list.remove()"
    - Python: [define_functions.py](https://thinkcompute.github.io/define_functions.py), [list_instructions.py](https://thinkcompute.github.io/list_instructions.py), [stack_instructions.py](https://thinkcompute.github.io/stack_instructions.py), [queue_instructions.py](https://thinkcompute.github.io/queue_instructions.py)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=684bb86e-dd71-4a1b-9be6-b4ff00889cc1&instance=Virtuale) (accessible using UNIBO credentials)
+   - exercises: [1](https://github.com/comp-data/2026-2027/issues/32), [2](https://github.com/comp-data/2026-2027/issues/33), [3](https://github.com/comp-data/2026-2027/issues/33), [4](https://github.com/comp-data/2026-2027/issues/34), [5](https://github.com/comp-data/2026-2027/issues/35)
    <hr />
 9. [13/11/26, *lab*] Laboratory: 3rd Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-03.html), Part 1
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a668b144-8169-4727-8455-b50100882706&instance=Virtuale) (accessible using UNIBO credentials)
    <hr />
 10. [16/11/26, *the*] Brute-force algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/06-brute-force.html)
