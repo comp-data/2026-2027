@@ -102,11 +102,12 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
       - Chapter "Understanding Lists": section "Constructing a List with List Items"
       - Chapter "How To Use List Methods": section "list.insert()"
     - Python: [stack_from_list.py](https://thinkcompute.github.io/stack_from_list.py), [run_forever.py](https://thinkcompute.github.io/run_forever.py), [linear_search.py](https://thinkcompute.github.io/linear_search.py), [insertion_sort.py](https://thinkcompute.github.io/insertion_sort.py)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9519e414-8d54-4620-9a02-b50400887440&instance=Virtuale) (accessible using UNIBO credentials)
     <hr />
 11. [18/11/26, *lab*] Laboratory: 4th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-03.html), Part 2 - Part 5, plus [Exercises on Brute Force](https://thinkcompute.github.io/lab-05.html)
     <hr />
-12. [20/11/26, *the*] Organising information: unordered structures
+12. [23/11/26, *the*] Organising information: unordered structures
     - book chapter: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
     - slides: [lecture](https://thinkcompute.github.io/07-slides-unordered-structures.html)
     - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
@@ -115,7 +116,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
       - Chapter "How To Construct Classes and Define Objects": all content
     - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
     <hr />
-13. [23/11/26, *lab*] Laboratory: 5th Lesson
+13. [24/11/26, *lab*] Laboratory: 5th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-04.html), all parts
     <hr />
 14. [25/11/26, *the*] Recursion
@@ -180,18 +181,17 @@ TODO
   <tr><td>14/10/26</td><td>09:00-11:00</td><td>Algorithms</td></tr>
   <tr><td>23/10/26 (rescheduled)</td><td>9:00-11:00</td><td>Computability</td></tr>
   <tr><td>21/10/26</td><td>09:00-11:00</td><td>Programming languages</td></tr>
-  <tr><td>23/10/26</td><td>12:00-14:00</td><td>Laboratory: 2nd Lesson</td></tr>
-  <tr><td>09/11/26</td><td>09:00-11:00</td><td>Laboratory: 3rd Lesson</td></tr>
+  <tr><td>09/11/26</td><td>09:00-11:00</td><td>Laboratory: 2nd Lesson</td></tr>
   <tr><td>11/11/26</td><td>09:00-11:00</td><td>Organising information: ordered structures</td></tr>
-  <tr><td>13/11/26</td><td>09:00-11:00</td><td>Laboratory: 4th Lesson</td></tr>
+  <tr><td>13/11/26</td><td>09:00-11:00</td><td>Laboratory: 3rd Lesson</td></tr>
   <tr><td>16/11/26</td><td>09:00-11:00</td><td>Brute-force algorithms</td></tr>
-  <tr><td>18/11/26</td><td>09:00-11:00</td><td>Laboratory: 5th Lesson</td></tr>
-  <tr><td>20/11/26</td><td>09:00-11:00</td><td>Organising information: unordered structures</td></tr>
-  <tr><td>23/11/26</td><td>09:00-11:00</td><td>Laboratory: 6th Lesson</td></tr>
+  <tr><td>18/11/26</td><td>09:00-11:00</td><td>Laboratory: 4th Lesson</td></tr>
+  <tr><td>23/11/26</td><td>09:00-11:00</td><td>Organising information: unordered structures</td></tr>
+  <tr><td>24/11/26</td><td>09:00-11:00</td><td>Laboratory: 5th Lesson</td></tr>
   <tr><td>25/11/26</td><td>09:00-11:00</td><td>Recursion</td></tr>
-  <tr><td>27/11/26</td><td>09:00-11:00</td><td>Laboratory: 7th Lesson</td></tr>
+  <tr><td>27/11/26</td><td>09:00-11:00</td><td>Laboratory: 6th Lesson</td></tr>
   <tr><td>30/11/26</td><td>09:00-11:00</td><td>Divide and conquer algorithms</td></tr>
-  <tr><td>02/12/26</td><td>09:00-11:00</td><td>Laboratory: 8th Lesson</td></tr>
+  <tr><td>02/12/26</td><td>09:00-11:00</td><td>Laboratory: 7th Lesson</td></tr>
   <tr><td>04/12/26</td><td>09:00-11:00</td><td>Dynamic programming algorithms</td></tr>
   <tr><td>09/12/26</td><td>09:00-11:00</td><td>Organising information: trees</td></tr>
   <tr><td>11/12/26</td><td>09:00-11:00</td><td>Backtracking algorithms</td></tr>
