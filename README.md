@@ -87,6 +87,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
    - Python: [define_functions.py](https://thinkcompute.github.io/define_functions.py), [list_instructions.py](https://thinkcompute.github.io/list_instructions.py), [stack_instructions.py](https://thinkcompute.github.io/stack_instructions.py), [queue_instructions.py](https://thinkcompute.github.io/queue_instructions.py)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=684bb86e-dd71-4a1b-9be6-b4ff00889cc1&instance=Virtuale) (accessible using UNIBO credentials)
    - exercises: [1](https://github.com/comp-data/2026-2027/issues/32), [2](https://github.com/comp-data/2026-2027/issues/33), [3](https://github.com/comp-data/2026-2027/issues/33), [4](https://github.com/comp-data/2026-2027/issues/34), [5](https://github.com/comp-data/2026-2027/issues/35)
+   - solutions: [1](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-11), [2](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-12), [3](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-13), [4](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-14), [5](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-15)
    <hr />
 9. [13/11/26, *lab*] Laboratory: 3rd Lesson
    - book chapter: [HTML](https://thinkcompute.github.io/lab-03.html), Part 1
@@ -103,9 +104,11 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
       - Chapter "How To Use List Methods": section "list.insert()"
     - Python: [stack_from_list.py](https://thinkcompute.github.io/stack_from_list.py), [run_forever.py](https://thinkcompute.github.io/run_forever.py), [linear_search.py](https://thinkcompute.github.io/linear_search.py), [insertion_sort.py](https://thinkcompute.github.io/insertion_sort.py)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9519e414-8d54-4620-9a02-b50400887440&instance=Virtuale) (accessible using UNIBO credentials)
+   - exercises: [1](https://github.com/comp-data/2026-2027/issues/37), [2](https://github.com/comp-data/2026-2027/issues/38), [3](https://github.com/comp-data/2026-2027/issues/39), [4](https://github.com/comp-data/2026-2027/issues/40), [5](https://github.com/comp-data/2026-2027/issues/41), [6](https://github.com/comp-data/2026-2027/issues/42), [7](https://github.com/comp-data/2026-2027/issues/43), [8](https://github.com/comp-data/2026-2027/issues/44), [9](https://github.com/comp-data/2026-2027/issues/45), [10](https://github.com/comp-data/2026-2027/issues/46), [11](https://github.com/comp-data/2026-2027/issues/47), [12](https://github.com/comp-data/2026-2027/issues/48)
     <hr />
 11. [18/11/26, *lab*] Laboratory: 4th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-03.html), Part 2 - Part 5, plus [Exercises on Brute Force](https://thinkcompute.github.io/lab-05.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=433a2bf4-b1e3-42f1-9eef-b50600882350&instance=Virtuale) (accessible using UNIBO credentials)
     <hr />
 12. [23/11/26, *the*] Organising information: unordered structures
     - book chapter: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
