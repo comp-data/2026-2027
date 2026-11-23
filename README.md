@@ -105,6 +105,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - Python: [stack_from_list.py](https://thinkcompute.github.io/stack_from_list.py), [run_forever.py](https://thinkcompute.github.io/run_forever.py), [linear_search.py](https://thinkcompute.github.io/linear_search.py), [insertion_sort.py](https://thinkcompute.github.io/insertion_sort.py)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9519e414-8d54-4620-9a02-b50400887440&instance=Virtuale) (accessible using UNIBO credentials)
    - exercises: [1](https://github.com/comp-data/2026-2027/issues/37), [2](https://github.com/comp-data/2026-2027/issues/38), [3](https://github.com/comp-data/2026-2027/issues/39), [4](https://github.com/comp-data/2026-2027/issues/40), [5](https://github.com/comp-data/2026-2027/issues/41), [6](https://github.com/comp-data/2026-2027/issues/42), [7](https://github.com/comp-data/2026-2027/issues/43), [8](https://github.com/comp-data/2026-2027/issues/44), [9](https://github.com/comp-data/2026-2027/issues/45), [10](https://github.com/comp-data/2026-2027/issues/46), [11](https://github.com/comp-data/2026-2027/issues/47), [12](https://github.com/comp-data/2026-2027/issues/48)
+   - solutions: [1](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-16), [2](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-17), [3](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-18), [4](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-19), [5](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-20), [6](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-21), [7](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-22), [8](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-23), [9](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-24), [10](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-25), [11](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-26), [12](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-27)
     <hr />
 11. [18/11/26, *lab*] Laboratory: 4th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-03.html), Part 2 - Part 5, plus [Exercises on Brute Force](https://thinkcompute.github.io/lab-05.html)
@@ -112,7 +113,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     <hr />
 12. [23/11/26, *the*] Organising information: unordered structures
     - book chapter: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
-    - slides: [lecture](https://thinkcompute.github.io/07-slides-unordered-structures.html)
+    - slides: [communications](https://comp-data.github.io/2026-2027/slides/07%20-%20Organising%20information%20-%20unordered%20structures.html), [lecture](https://thinkcompute.github.io/07-slides-unordered-structures.html)
     - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
       - Chapter "Understanding Data Types": section "Dictionaries"
       - Chapter "Understanding Dictionaries": all content
