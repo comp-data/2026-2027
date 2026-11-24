@@ -123,7 +123,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     <hr />
 13. [24/11/26, *lab*] Laboratory: 5th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-04.html), all parts
-   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c4d52db1-c84a-48f0-a04d-b50c0088385f&instance=Virtuale) (accessible using UNIBO credentials)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c4d52db1-c84a-48f0-a04d-b50c0088385f&instance=Virtuale) (accessible using UNIBO credentials)
     <hr />
 14. [25/11/26, *the*] Recursion
     - book chapter: [HTML](https://thinkcompute.github.io/08-recursion.html)
