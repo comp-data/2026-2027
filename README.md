@@ -119,9 +119,11 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
       - Chapter "Understanding Dictionaries": all content
       - Chapter "How To Construct Classes and Define Objects": all content
     - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
+    - exercises: [1](https://github.com/comp-data/2026-2027/issues/49), [2](https://github.com/comp-data/2026-2027/issues/50), [3](https://github.com/comp-data/2026-2027/issues/51), [4](https://github.com/comp-data/2026-2027/issues/52), [5](https://github.com/comp-data/2026-2027/issues/53), [6](https://github.com/comp-data/2026-2027/issues/54), [7](https://github.com/comp-data/2026-2027/issues/55), [8](https://github.com/comp-data/2026-2027/issues/56), [9](https://github.com/comp-data/2026-2027/issues/57)
     <hr />
 13. [24/11/26, *lab*] Laboratory: 5th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-04.html), all parts
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c4d52db1-c84a-48f0-a04d-b50c0088385f&instance=Virtuale) (accessible using UNIBO credentials)
     <hr />
 14. [25/11/26, *the*] Recursion
     - book chapter: [HTML](https://thinkcompute.github.io/08-recursion.html)
