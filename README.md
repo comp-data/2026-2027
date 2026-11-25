@@ -127,7 +127,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     <hr />
 14. [25/11/26, *the*] Recursion
     - book chapter: [HTML](https://thinkcompute.github.io/08-recursion.html)
-    - slides: [lecture](https://thinkcompute.github.io/08-slides-recursion.html)
+    - slides: [communications](https://comp-data.github.io/2026-2027/slides/08%20-%20Recursion.html), [lecture](https://thinkcompute.github.io/08-slides-recursion.html)
     - Python: [run_forever_recursive.py](https://thinkcompute.github.io/run_forever_recursive.py), [multiplication.py](https://thinkcompute.github.io/multiplication.py)
     <hr />
 15. [27/11/26, *lab*] Laboratory: 6th Lesson
