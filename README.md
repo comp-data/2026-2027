@@ -122,6 +122,7 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7f13a88b-d342-4070-a111-b50b00898faf&instance=Virtuale) (accessible using UNIBO credentials)
     - exercises: [1](https://github.com/comp-data/2026-2027/issues/49), [2](https://github.com/comp-data/2026-2027/issues/50), [3](https://github.com/comp-data/2026-2027/issues/51), [4](https://github.com/comp-data/2026-2027/issues/52), [5](https://github.com/comp-data/2026-2027/issues/53), [6](https://github.com/comp-data/2026-2027/issues/54), [7](https://github.com/comp-data/2026-2027/issues/55), [8](https://github.com/comp-data/2026-2027/issues/56), [9](https://github.com/comp-data/2026-2027/issues/57)
+    - solutions: [1](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-28), [2](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-29), [3](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-30), [4](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-31), [5](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-32), [6](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-33), [7](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-34), [8](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-35), [9](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-36)
     <hr />
 13. [24/11/26, *lab*] Laboratory: 5th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-04.html), all parts
@@ -132,9 +133,11 @@ The official book of the course, <cite><a href="https://thinkcompute.github.io/"
     - slides: [communications](https://comp-data.github.io/2026-2027/slides/08%20-%20Recursion.html), [lecture](https://thinkcompute.github.io/08-slides-recursion.html)
     - Python: [run_forever_recursive.py](https://thinkcompute.github.io/run_forever_recursive.py), [multiplication.py](https://thinkcompute.github.io/multiplication.py)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b6f3d6eb-1ea6-4c15-ba95-b50d0088882e&instance=Virtuale) (accessible using UNIBO credentials)
+    - exercises: [1](https://github.com/comp-data/2026-2027/issues/58), [2](https://github.com/comp-data/2026-2027/issues/59), [3](https://github.com/comp-data/2026-2027/issues/60), [4](https://github.com/comp-data/2026-2027/issues/61)
     <hr />
 15. [27/11/26, *lab*] Laboratory: 6th Lesson
     - book chapter: [HTML](https://thinkcompute.github.io/lab-06.html), all parts
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2ecdf6f7-0f6b-47d2-9ab8-b50f008802b3&instance=Virtuale) (accessible using UNIBO credentials)
     <hr />
 16. [30/11/26, *the*] Divide and conquer algorithms
     - book chapter: [HTML](https://thinkcompute.github.io/09-divide-and-conquer.html)
